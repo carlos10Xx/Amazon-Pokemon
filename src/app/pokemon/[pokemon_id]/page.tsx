@@ -6,6 +6,7 @@ import { useEffect, useState } from 'react';
 import { Container, Image, Spinner, Row } from 'react-bootstrap';
 import PokemonComponent from './pokemon';
 import PokeNavBar from '@/components/pokeNavBarComp';
+import React from 'react';
 
 
 // This type is used to get the pokemon id from the url path
